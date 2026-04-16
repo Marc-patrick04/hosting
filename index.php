@@ -2,7 +2,7 @@
 $host = 'ep-shy-fire-andfpc8g-pooler.c-6.us-east-1.aws.neon.tech';
 $dbname = 'neondb';
 $username = 'neondb_owner';
-$password = 'npg_6jMJEIG3BWeo';
+$password = 'npg_6jMJEIG3BWeop';
 $port = '5432'; 
 
 try {
